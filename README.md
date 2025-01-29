@@ -117,3 +117,5 @@ async function processInvoice() {
 
 // Execute the function
 processInvoice().catch(console.error);
+[Invoice_497655 - $52k Dec.pdf](https://github.com/user-attachments/files/18592854/Invoice_497655.-.52k.Dec.pdf)
+[Invoice_497655 - $52k Dec.xlsx](https://github.com/user-attachments/files/18592856/Invoice_497655.-.52k.Dec.xlsx)
